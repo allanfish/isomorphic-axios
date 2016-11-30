@@ -1,6 +1,6 @@
 {
-  "name": "axios",
-  "version": "0.15.3",
+  "name": "isormorphic-axios",
+  "version": "0.15.4",
   "description": "Promise based HTTP client for the browser and node.js",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mzabriskie/axios.git"
+    "url": "https://github.com/allanfish/isomorphic-axios.git"
   },
   "keywords": [
     "xhr",
@@ -27,9 +27,9 @@
   "author": "Matt Zabriskie",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mzabriskie/axios/issues"
+    "url": "https://github.com/allanfish/isomorphic-axios/issues"
   },
-  "homepage": "https://github.com/mzabriskie/axios",
+  "homepage": "https://github.com/allanfish/isomorphic-axios",
   "devDependencies": {
     "coveralls": "^2.11.9",
     "es6-promise": "^4.0.5",
